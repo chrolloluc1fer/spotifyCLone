@@ -25,7 +25,7 @@ body{
     height: 21.7vh;
   }
 
-/* .overlay{
+.overlay{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@ body{
  
 .overlay:hover{
  opacity: 1;
-} */
+}
 
 .midbar{
     position: absolute;
